@@ -1,0 +1,2 @@
+# azuredevopstrain
+training devops cicd
